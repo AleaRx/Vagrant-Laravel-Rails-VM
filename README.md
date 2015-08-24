@@ -1,4 +1,4 @@
-It's  a modified version of the Scotch Box that supports Rails 4.2.3  development & added the laravel and composer to the System PATH. made by Ayman 
+It's  a modified version of the Scotch Box that supports Rails 4.2.3  development & added the laravel and composer to the System PATH, The NFS is activated by default, to use make it works install the WINFSD plugin driver for nfs in Windows made by Ayman 
 
 #system Suff
 - Ubuntu 14.04 LTS (Trusty Tahr)
