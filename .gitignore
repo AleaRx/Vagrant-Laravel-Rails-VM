@@ -1,2 +1,7 @@
 .DS_STORE
-.vagrant
+hooks
+info
+refs
+config
+description
+HEAD

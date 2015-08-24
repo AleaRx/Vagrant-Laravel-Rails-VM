@@ -1,0 +1,1 @@
+{"nfs":{"/var/www":{"nfs":{"mount_options":["dmode=777","fmode=666"]},"guestpath":"/var/www","hostpath":"/E/VMS/Rails & Laravel VM","disabled":false,"type":"nfs","map_uid":0,"map_gid":0,"nfs_udp":true,"nfs_version":3,"uuid":"1599363998","mount_options":["vers=3","udp","nolock"]}}}
